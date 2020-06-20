@@ -1,0 +1,4 @@
+MorningStart: https://www.youtube.com/watch?v=HpWJNX2ICIM
+Alpha Vantage: https://www.alphavantage.co/
+IEX: https://iextrading.com/developers/
+Yahoo Finance: https://finance.yahoo.com/
